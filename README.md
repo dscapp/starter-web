@@ -15,3 +15,5 @@ Here some text
 Hola
 
 ## The Final paragraph
+
+## Copyright paragraph
