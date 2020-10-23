@@ -18,4 +18,3 @@ Hola
 
 ## Copyright paragraph
 
-## How to modify
